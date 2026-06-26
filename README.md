@@ -5,8 +5,9 @@ Campusano, Matias. Espinoz, Adriano.
 ***Pensamiento computacional***
 Mujica, Paulina. Sepulveda, Jannis.
 
-•⁠  ⁠Descripción objetiva
-¿Qué es el proyecto?
+**¿Qué es el proyecto?**
+
+En tiempos donde aparentemente hemos decidido olvidar qui
 ¿Qué se ve en pantalla?
 ¿Qué elementos visuales aparecen?
 •⁠  ⁠Descripción conceptual
