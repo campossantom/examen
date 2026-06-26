@@ -51,6 +51,9 @@ Como referencias utilizamos a los siguientes autores y obras:
 
 **Código en formato MarkDown**  
 
+## Código Fuente (`sketch.js`)
+
+```javascript
 let noTo;         // fuente tipográfica NotoSans
 let cam;          // captura de la cámara web
 let first;        // GIF del mar (pantalla inicial)
@@ -134,7 +137,7 @@ function initialScreen() {
   let escala = min(escalaX, escalaY);  // usa la menor escala para mantener proporciones
 
   push();                                                    // guarda el estado de transformación actual
-  translate(width / 2, height / 2);                         // mueve el origen al centro del canvas
+  translate(width / 2, height / 2);                          // mueve el origen al centro del canvas
   scale(escala);                                             // aplica la escala calculada
   image(first, -first.width / 2, -first.height / 2, first.width, first.height); // dibuja el GIF centrado
   pop();                                                     // restaura el estado de transformación
