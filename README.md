@@ -27,9 +27,16 @@ Se procesan a través de una instrucción de precarga en nuestro Sketch de P5.
 **¿Qué respuesta visual o sonora producen? (OUTPUT)**  
 Las imagenes se comienzan a reproducir en el draw gracias a un cambio de estado declardo en Switch(state) que genera 3 pantallas diferentes. Cada una reproduce su sonido o lo comparte dependiendo del caso, además la tipografía se incluye en cada pantalla con su texto y ajuste de responsividad. Es importante aclarar que las configuraciones y posicionamientos fueron acompañados y apoyados por inteligencia artificial y modificados a nuestras necesidad personales del proyecto, sobre todo considerando la dificultad matematica que respondía hacer estos diseños y cada elemento responsivo. Aunque luego de la primera ayuda, logramos entender de buena manera esta lógica y solo tuvimos que copiar y pegar el código y modificarlo nosotros mismos dependiendo de las necesidad que cada elemento considerase.
 
-•⁠  ⁠Pensamiento computacional
-Reglas que gobiernan el sistema (inputs, procesos, outputs)
-Explicación del sistema de interactividad
+**Pensamiento computacional, código reescrito y cada elemento dentro de él**
+Cumplimos con todos los elementos solicitados en el examén a excepción del ***map*** ya que no logramos incluirlo en una aspecto que considerasemos necesario para explicar y representar nuestra propuesta, por lo que voluntariamente decidimos no incluirlo.
+Sin embargo en nuestro listado hay:
+*    14 variables globales
+*    1 Array
+*    1 Class
+*    6 Funciones propias
+*    2 Bucles
+*    6 Condicionales
+*    2 Switch
 •⁠  ⁠Referentes
 Listado y breve descripción de referentes visuales, teóricos o históricos.
 •⁠  ⁠Diagrama de Flujo (Imagen en PNG ) (Agregada en formato MarkDown)
