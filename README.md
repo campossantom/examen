@@ -37,8 +37,16 @@ Sin embargo en nuestro listado hay:
 *    2 Bucles
 *    6 Condicionales
 *    2 Switch
-•⁠  ⁠Referentes
-Listado y breve descripción de referentes visuales, teóricos o históricos.
+
+**Referentes**
+Como referencias utilizamos a los siguientes autores y obras:  
+*    Raúl Zurita
+*    Lotty Rosefeld
+*    Alfredo Jaar: Lament of the Images
+*    Ay Sudamerica: Grupo CADA
+*    Ausencia y Memoria: MMDH
+*    Patricio Guzmán: El botón de Nacar
+
 •⁠  ⁠Diagrama de Flujo (Imagen en PNG ) (Agregada en formato MarkDown)
-•⁠  ⁠Código de p5.js (Agregado en formato MarkDown)
+
 •⁠  ⁠Link al sketch en P5.js en formato EDITABLE.
