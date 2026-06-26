@@ -1,4 +1,4 @@
-# examen
+# Examen Pensamiento Computacional
 
 # Memorias entre las olas 
 Campusano, Matias. Espinoz, Adriano.
