@@ -25,7 +25,8 @@ En este caso entran imagenes en formato .PNG, .GIF, audios en formato .MP3 y una
 Se procesan a través de una instrucción de precarga en nuestro Sketch de P5.
 
 **¿Qué respuesta visual o sonora producen? (OUTPUT)**  
-Las 
+Las imagenes se comienzan a reproducir en el draw gracias a un cambio de estado declardo en Switch(state) que genera 3 pantallas diferentes. Cada una reproduce su sonido o lo comparte dependiendo del caso, además la tipografía se incluye en cada pantalla con su texto y ajuste de responsividad. Es importante aclarar que las configuraciones y posicionamientos fueron acompañados y apoyados por inteligencia artificial y modificados a nuestras necesidad personales del proyecto, sobre todo considerando la dificultad matematica que respondía hacer estos diseños y cada elemento responsivo. Aunque luego de la primera ayuda, logramos entender de buena manera esta lógica y solo tuvimos que copiar y pegar el código y modificarlo nosotros mismos dependiendo de las necesidad que cada elemento considerase.
+
 •⁠  ⁠Pensamiento computacional
 Reglas que gobiernan el sistema (inputs, procesos, outputs)
 Explicación del sistema de interactividad
