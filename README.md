@@ -48,8 +48,7 @@ Como referencias utilizamos a los siguientes autores y obras:
 *    Patricio Guzmán: El botón de Nacar
 
 ### Diagrama de Flujo  
-![diagrama de flujo](<img width="1035" height="1600" alt="WhatsApp Image 2026-06-26 at 00 13 57" src="https://github.com/user-attachments/assets/afcce7c0-5f3b-412f-855b-5d5902f27c88" />
-)
+![img](<img width="1035" height="1600" alt="WhatsApp Image 2026-06-26 at 00 13 57" src="https://github.com/user-attachments/assets/afcce7c0-5f3b-412f-855b-5d5902f27c88" />)
 
 ### Código de P5: [Link editable de P5 Examen](https://editor.p5js.org/campossantom/sketches/EiKsR5mmp)
 
