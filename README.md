@@ -51,6 +51,15 @@ Como referencias utilizamos a los siguientes autores y obras:
 
 **Código en formato MarkDown**  
 
+Your Markdown file is ready
+[file-tag: code-generated-file-0-1782446078717538131]
+
+Aquí tienes tu código formateado limpiamente en bloques de Markdown para que puedas copiarlo, usarlo en tus apuntes, guardarlo en un repositorio como GitHub o abrirlo en editores de texto como VS Code:
+
+# Proyecto de Arte Interactivo: Memoria Histórica (p5.js)
+
+Este documento contiene el código fuente estructurado y comentado para una pieza de arte interactiva desarrollada en **p5.js**. El proyecto rinde homenaje a la memoria histórica a través de la poesía de Raúl Zurita, el paisaje sonoro del mar, el audio de Víctor Jara, y la captura interactiva con la cámara del usuario.
+
 ## Código Fuente (`sketch.js`)
 
 ```javascript
@@ -261,4 +270,5 @@ function mousePressed() {
   }
 }
 
-•⁠  ⁠Link al sketch en P5.js en formato EDITABLE.
+
+
