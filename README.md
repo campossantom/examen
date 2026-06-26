@@ -60,6 +60,8 @@ Aquí tienes tu código formateado limpiamente en bloques de Markdown para que p
 
 Este documento contiene el código fuente estructurado y comentado para una pieza de arte interactiva desarrollada en **p5.js**. El proyecto rinde homenaje a la memoria histórica a través de la poesía de Raúl Zurita, el paisaje sonoro del mar, el audio de Víctor Jara, y la captura interactiva con la cámara del usuario.
 
+## Código de P5: [Link editable de P5 Examen](https://editor.p5js.org/campossantom/sketches/EiKsR5mmp)
+
 ## Código Fuente (`sketch.js`)
 
 ```javascript
@@ -269,6 +271,5 @@ function mousePressed() {
     }
   }
 }
-
 
 
